@@ -57,8 +57,8 @@ Uses [brazilnum](https://github.com/poliquin/brazilnum)
 
 COPYRIGHT
 
-Copyright (c) Stefan LOESCH, oditorium 2016. All Rights Reserved.
-Licensed under the MIT License <https://opensource.org/licenses/MIT>.
+Copyright (c) Stefan LOESCH, oditorium 2016. All rights reserved.
+Licensed under the Mozilla Public License, v. 2.0 <https://mozilla.org/MPL/2.0/>
 """
 import datetime
 
